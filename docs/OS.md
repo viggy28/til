@@ -1,6 +1,9 @@
 ## OS
 
 
+* <code>Mar 04, 2021</code> [Linux-Permission-Capabilities](2021-03-04T18-14-43-linux-permission-capabilities.md)
+
+* <code>Feb 06, 2021</code> [Filesystem-Partitions-Mountpoints](2021-02-06T09-45-11-filesystem-partitions-mountpoints.md)
 * <code>Feb 05, 2021</code> [Stdin-Stdout-Stderr](2021-02-05T21-08-33-stdin-stdout-stderr.md)
 
 * <code>Jan 29, 2021</code> [Bash-Scripting-Gotchas](2021-01-29T20-27-11-bash-scripting-gotchas.md)
@@ -9,4 +12,4 @@
 
 * <code>Aug 12, 2020</code> [concept-ebpf](2020-08-12T18-53-32-concept-ebpf.md)
 
-<sup><sub>generated 6 Feb 2021 09:02:16 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 4 Mar 2021 18:32:57 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
