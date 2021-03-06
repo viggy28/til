@@ -1,7 +1,7 @@
 ---
 date: 2021-03-06T01:29:30-08:00
 title: New Systemd-Quirk-Stolon
-tags: OS Postgres
+tags: OS,Postgres
 ---
 
 # New Systemd-Quirk-Stolon
