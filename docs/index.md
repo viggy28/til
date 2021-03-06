@@ -1,5 +1,6 @@
-[GIT](./GIT), [OS](./OS), [Postgres](./Postgres)
+[GIT](./GIT), [OS](./OS), [OS Postgres](./OS Postgres), [Postgres](./Postgres)
 
+* <code>Mar 06, 2021</code> [New Systemd-Quirk-Stolon](2021-03-06T01-29-30-new-systemd-quirk-stolon.md)
 * <code>Mar 06, 2021</code> [New Timeout-Utility-Linux](2021-03-06T01-02-42-new-timeout-utility-linux.md)
 * <code>Mar 04, 2021</code> [Linux-Permission-Capabilities](2021-03-04T18-14-43-linux-permission-capabilities.md)
 
@@ -15,4 +16,4 @@
 * <code>Aug 12, 2020</code> [concept-ebpf](2020-08-12T18-53-32-concept-ebpf.md)
 
 
-<sup><sub>generated 6 Mar 2021 01:03:45 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 6 Mar 2021 01:30:28 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
