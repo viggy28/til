@@ -1,5 +1,6 @@
-[GIT](./GIT), [OS](./OS), [Postgres](./Postgres)
+[GIT](./GIT), [OS](./OS), [Postgres](./Postgres), [postgres](./postgres)
 
+* <code>Mar 16, 2021</code> [Difference-Between-COPY-And-\COPY](2021-03-16T22-01-30-difference-between-copy-and-copy.md)
 * <code>Mar 09, 2021</code> [Postgres-Process-Memory-Detail](2021-03-09T23-05-38-postgres-process-memory-detail.md)
 * <code>Mar 08, 2021</code> [Memory-Smem](2021-03-08T23-13-52-memory-smem.md)
 * <code>Mar 06, 2021</code> [New Systemd-Quirk-Stolon](2021-03-06T01-29-30-new-systemd-quirk-stolon.md)
@@ -18,4 +19,4 @@
 * <code>Aug 12, 2020</code> [concept-ebpf](2020-08-12T18-53-32-concept-ebpf.md)
 
 
-<sup><sub>generated 9 Mar 2021 23:08:17 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 16 Mar 2021 22:13:30 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
