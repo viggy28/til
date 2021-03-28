@@ -1,5 +1,6 @@
-[GIT](./GIT), [OS](./OS), [Postgres](./Postgres), [postgres](./postgres)
+[GIT](./GIT), [OS](./OS), [Postgres](./Postgres), [postgres](./postgres), [sqlite](./sqlite)
 
+* <code>Mar 28, 2021</code> [Sqlite-Intro](2021-03-28T09-12-38-sqlite-intro.md)
 * <code>Mar 16, 2021</code> [Difference-Between-COPY-And-\COPY](2021-03-16T22-01-30-difference-between-copy-and-copy.md)
 * <code>Mar 09, 2021</code> [Postgres-Process-Memory-Detail](2021-03-09T23-05-38-postgres-process-memory-detail.md)
 * <code>Mar 08, 2021</code> [Memory-Smem](2021-03-08T23-13-52-memory-smem.md)
@@ -19,4 +20,4 @@
 * <code>Aug 12, 2020</code> [concept-ebpf](2020-08-12T18-53-32-concept-ebpf.md)
 
 
-<sup><sub>generated 16 Mar 2021 22:13:30 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 28 Mar 2021 09:13:10 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>

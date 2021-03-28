@@ -1,6 +1,6 @@
-## GIT
+## sqlite
 
 
-* <code>Aug 13, 2020</code> [Note-Git-Log](2020-08-13T14-39-44-note-git-log.md)
+* <code>Mar 28, 2021</code> [Sqlite-Intro](2021-03-28T09-12-38-sqlite-intro.md)
 
 <sup><sub>generated 28 Mar 2021 09:13:10 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
