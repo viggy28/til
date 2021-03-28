@@ -1,6 +1,7 @@
 ## OS
 
 
+* <code>Mar 28, 2021</code> [Awk-Cmd](2021-03-28T15-55-03-awk-cmd.md)
 * <code>Mar 08, 2021</code> [Memory-Smem](2021-03-08T23-13-52-memory-smem.md)
 * <code>Mar 06, 2021</code> [New Systemd-Quirk-Stolon](2021-03-06T01-29-30-new-systemd-quirk-stolon.md)
 * <code>Mar 06, 2021</code> [New Timeout-Utility-Linux](2021-03-06T01-02-42-new-timeout-utility-linux.md)
@@ -15,4 +16,4 @@
 
 * <code>Aug 12, 2020</code> [concept-ebpf](2020-08-12T18-53-32-concept-ebpf.md)
 
-<sup><sub>generated 28 Mar 2021 09:13:10 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 28 Mar 2021 15:56:37 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
