@@ -1,5 +1,6 @@
 [GIT](./GIT), [OS](./OS), [Postgres](./Postgres), [bash](./bash), [postgres](./postgres), [sqlite](./sqlite)
 
+* <code>Mar 30, 2021</code> [Postgres Wal Archiver Stat](2021-03-30T17-12-45-postgres-wal-archiver-stat.md)
 * <code>Mar 28, 2021</code> [Awk-Cmd](2021-03-28T15-55-03-awk-cmd.md)
 * <code>Mar 28, 2021</code> [Sqlite-Intro](2021-03-28T09-12-38-sqlite-intro.md)
 * <code>Mar 16, 2021</code> [Difference-Between-COPY-And-\COPY](2021-03-16T22-01-30-difference-between-copy-and-copy.md)
@@ -21,4 +22,4 @@
 * <code>Aug 12, 2020</code> [concept-ebpf](2020-08-12T18-53-32-concept-ebpf.md)
 
 
-<sup><sub>generated 28 Mar 2021 15:56:37 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 30 Mar 2021 17:14:57 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
