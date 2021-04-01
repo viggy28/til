@@ -1,4 +1,6 @@
-[GIT](./GIT), [OS](./OS), [Postgres](./Postgres), [bash](./bash), [postgres](./postgres), [sqlite](./sqlite)
+[GIT](./GIT), [OS](./OS), [OS Linux](./OS Linux), [Postgres](./Postgres), [bash](./bash), [postgres](./postgres), [sqlite](./sqlite)
+
+* <code>Apr 01, 2021</code> [Dm Dm-Crypt LUKS](2021-04-01T10-13-55-dm-dm-crypt-luks.md)
 
 * <code>Mar 30, 2021</code> [Postgres Wal Archiver Stat](2021-03-30T17-12-45-postgres-wal-archiver-stat.md)
 * <code>Mar 28, 2021</code> [Awk-Cmd](2021-03-28T15-55-03-awk-cmd.md)
@@ -22,4 +24,4 @@
 * <code>Aug 12, 2020</code> [concept-ebpf](2020-08-12T18-53-32-concept-ebpf.md)
 
 
-<sup><sub>generated 30 Mar 2021 17:14:57 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 1 Apr 2021 10:17:31 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
