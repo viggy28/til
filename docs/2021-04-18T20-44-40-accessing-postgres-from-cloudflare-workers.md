@@ -13,7 +13,7 @@ Using the [PostgREST](https://postgrest.org/en/stable/tutorials/tut0.html), I wa
 
 Next step is connecting from Workers to PostgREST instance on my server. To do that securely, I turned to Cloudflare Tunnel. It provides a hostname which I can connect to and protects the server too. No need for VPN, or VPC etc.
 
-![Screen Shot 2021-04-18 at 9.18.46 PM](/Users/visi/Library/Application Support/typora-user-images/Screen Shot 2021-04-18 at 9.18.46 PM.png)
+![accessing-postgres-from-cloudflare-workers-1.png](accessing-postgres-from-cloudflare-workers-1.png)
 
 A simple Workers script in Javascript, listens for "fetch" event. Hostname `https://cfworkerspostgresdemo.viggy28.dev/`is exposed through a Cloudflare tunnel. There is a PostgREST endpoint called `/todos`. 
 
