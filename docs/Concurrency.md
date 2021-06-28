@@ -3,4 +3,4 @@
 
 * <code>Apr 17, 2021</code> [Go-Concurrency-Basics](2021-04-17T09-07-11-go-concurrency-basics.md)
 
-<sup><sub>generated 26 Jun 2021 21:09:03 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 27 Jun 2021 21:10:35 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
