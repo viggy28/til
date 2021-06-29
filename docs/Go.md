@@ -1,6 +1,7 @@
 ## Go
 
 
+* <code>Jun 28, 2021</code> [Go-Io-Readall](2021-06-28T21-34-12-go-io-readall.md)
 * <code>Jun 27, 2021</code> [Go-Debugging-Vscode](2021-06-27T20-52-11-go-debugging-vscode.md)
 * <code>Jun 13, 2021</code> [Go-Internaces](2021-06-13T00-57-54-go-internaces.md)
 
@@ -11,4 +12,4 @@
 * <code>Apr 15, 2021</code> [Golang Error Unwrap](2021-04-15T20-03-55-golang-error-unwrap.md)
 * <code>Apr 11, 2021</code> [Go-Misc-1](2021-04-11T21-06-05-go-misc-1.md)
 
-<sup><sub>generated 27 Jun 2021 21:10:35 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 29 Jun 2021 08:51:48 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
