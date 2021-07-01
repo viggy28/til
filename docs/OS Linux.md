@@ -3,4 +3,4 @@
 
 * <code>Apr 01, 2021</code> [Dm Dm-Crypt LUKS](2021-04-01T10-13-55-dm-dm-crypt-luks.md)
 
-<sup><sub>generated 29 Jun 2021 21:53:23 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 30 Jun 2021 22:22:18 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>

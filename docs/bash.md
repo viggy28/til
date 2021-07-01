@@ -3,4 +3,4 @@
 
 * <code>Mar 28, 2021</code> [Awk-Cmd](2021-03-28T15-55-03-awk-cmd.md)
 
-<sup><sub>generated 29 Jun 2021 21:53:23 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 30 Jun 2021 22:22:18 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
