@@ -1,5 +1,7 @@
 [AWS](./AWS), [C](./C), [Cloudflare](./Cloudflare), [Concurrency](./Concurrency), [GIT](./GIT), [Git](./Git), [Go](./Go), [Libpq](./Libpq), [Linux](./Linux), [Make](./Make), [Networking](./Networking), [OS](./OS), [OS Linux](./OS Linux), [Postgres](./Postgres), [VSCode](./VSCode), [Workers](./Workers), [bash](./bash), [etcd](./etcd), [postgres](./postgres), [sqlite](./sqlite)
 
+* <code>Jul 01, 2021</code> [strings-Command](2021-07-01T20-03-02-strings-command.md)
+
 * <code>Jun 30, 2021</code> [Iproute2](2021-06-30T22-19-01-iproute2.md)
 * <code>Jun 29, 2021</code> [Etcd-Intro](2021-06-29T21-30-32-etcd-intro.md)
 * <code>Jun 28, 2021</code> [Go-Io-Readall](2021-06-28T21-34-12-go-io-readall.md)
@@ -42,4 +44,4 @@
 * <code>Aug 12, 2020</code> [concept-ebpf](2020-08-12T18-53-32-concept-ebpf.md)
 
 
-<sup><sub>generated 30 Jun 2021 22:22:18 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 1 Jul 2021 20:07:31 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
