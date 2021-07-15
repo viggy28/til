@@ -1,5 +1,6 @@
-[AWS](./AWS), [C](./C), [Cloudflare](./Cloudflare), [Concurrency](./Concurrency), [GIT](./GIT), [Git](./Git), [Go](./Go), [Libpq](./Libpq), [Linux](./Linux), [Make](./Make), [Networking](./Networking), [OS](./OS), [OS Linux](./OS Linux), [Postgres](./Postgres), [VSCode](./VSCode), [Workers](./Workers), [bash](./bash), [etcd](./etcd), [postgres](./postgres), [sqlite](./sqlite)
+[AWS](./AWS), [C](./C), [Cloudflare](./Cloudflare), [Concurrency](./Concurrency), [GIT](./GIT), [Git](./Git), [Go](./Go), [Libpq](./Libpq), [Linux](./Linux), [Make](./Make), [Networking](./Networking), [OS](./OS), [OS Linux](./OS Linux), [Postgres](./Postgres), [VSCode](./VSCode), [Workers](./Workers), [bash](./bash), [cors](./cors), [etcd](./etcd), [postgres](./postgres), [sqlite](./sqlite)
 
+* <code>Jul 15, 2021</code> [Cors-Subdomain-Options](2021-07-15T00-08-24-cors-subdomain-options.md)
 * <code>Jul 10, 2021</code> [Logging-Syslog-Syslogng-Rsyslog](2021-07-10T08-01-45-logging-syslog-syslogng-rsyslog.md)
 * <code>Jul 02, 2021</code> [TLS-ACME-BOULDER-LEGO](2021-07-02T20-54-02-tls-acme-boulder-lego.md)
 * <code>Jul 01, 2021</code> [strings-Command](2021-07-01T20-03-02-strings-command.md)
@@ -46,4 +47,4 @@
 * <code>Aug 12, 2020</code> [concept-ebpf](2020-08-12T18-53-32-concept-ebpf.md)
 
 
-<sup><sub>generated 10 Jul 2021 08:04:28 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 15 Jul 2021 00:12:54 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>

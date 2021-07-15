@@ -7,8 +7,11 @@
         "id": "358f70e6290a9f39",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2021-07-15T00-08-24-cors-subdomain-options.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -49,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 418
   },
   "right": {
     "id": "24f8ea88b4f1ba5a",
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2021-07-15T00-08-24-cors-subdomain-options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +87,8 @@
     "collapsed": true
   },
   "active": "358f70e6290a9f39",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "2021-07-15T00-08-24-cors-subdomain-options.md",
+    "Untitled.md"
+  ]
 }
