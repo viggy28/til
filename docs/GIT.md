@@ -1,6 +1,6 @@
-## Git
+## GIT
 
 
-* <code>Jun 26, 2021</code> [Git-Submodules](2021-06-26T21-03-38-git-submodules.md)
+* <code>Aug 13, 2020</code> [Note-Git-Log](2020-08-13T14-39-44-note-git-log.md)
 
-<sup><sub>generated 15 Jul 2021 00:12:54 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 22 Jul 2021 23:28:48 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
