@@ -1,6 +1,8 @@
 ## OS
 
 
+* <code>Jul 31, 2021</code> [Unix-Domain-Sockets](2021-07-31T08-33-41-unix-domain-sockets.md)
+
 * <code>Mar 28, 2021</code> [Awk-Cmd](2021-03-28T15-55-03-awk-cmd.md)
 * <code>Mar 08, 2021</code> [Memory-Smem](2021-03-08T23-13-52-memory-smem.md)
 * <code>Mar 06, 2021</code> [New Systemd-Quirk-Stolon](2021-03-06T01-29-30-new-systemd-quirk-stolon.md)
@@ -16,4 +18,4 @@
 
 * <code>Aug 12, 2020</code> [concept-ebpf](2020-08-12T18-53-32-concept-ebpf.md)
 
-<sup><sub>generated 31 Jul 2021 08:41:49 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 31 Jul 2021 08:53:14 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>

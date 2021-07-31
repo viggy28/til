@@ -7,8 +7,11 @@
         "id": "7f5a16be9c03f340",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "OS.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,8 @@
   },
   "active": "7f5a16be9c03f340",
   "lastOpenFiles": [
+    "OS.md",
+    "OS Postgres.md",
     "index.md",
     "Networking.md",
     "Linux.md",
@@ -91,8 +97,6 @@
     "2021-03-06T01-02-42-new-timeout-utility-linux.md",
     "2021-01-23T19-23-55-os-debian-backports.md",
     "2021-03-28T15-55-03-awk-cmd.md",
-    "OS.md",
-    "2021-07-15T00-08-24-cors-subdomain-options.md",
-    "Untitled.md"
+    "2021-07-15T00-08-24-cors-subdomain-options.md"
   ]
 }
