@@ -12,4 +12,4 @@
 * <code>Apr 15, 2021</code> [Golang Error Unwrap](2021-04-15T20-03-55-golang-error-unwrap.md)
 * <code>Apr 11, 2021</code> [Go-Misc-1](2021-04-11T21-06-05-go-misc-1.md)
 
-<sup><sub>generated 24 Jul 2021 23:25:08 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 31 Jul 2021 08:35:45 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>

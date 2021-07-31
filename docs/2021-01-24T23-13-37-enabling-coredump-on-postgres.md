@@ -1,7 +1,7 @@
 ---
 date: 2021-01-24T23:13:37-08:00
 title: Enabling Coredump On Postgres
-tags: OS,Postgres
+tags: OS Postgres
 ---
 
 # Enabling Coredump On Postgres
